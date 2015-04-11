@@ -1,16 +1,19 @@
 Requirements
 ------------
 
-* Python v2.x, x>=6
-  http://www.python.org/
+* Python_ ``2.x, x>=6``
 
-* VisualPython
-  http://www.vpython.org/
-  The last release of v5 or any v6 should work. Needs confirmation.
+.. _Python: http://www.python.org/
 
-* NumPy
-  http://www.numpy.org/
-  Is included with VisualPython under Windows.
+* VisualPython_
+  the last release of v5 or any v6 should work. Needs confirmation.
+
+.. _VisualPython: http://www.vpython.org/
+
+* NumPy_
+  is included with VisualPython under Windows.
+
+.. _NumPy: http://www.numpy.org/
 
 
 Getting Started
